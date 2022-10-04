@@ -1,4 +1,4 @@
-package pro.sky.sethandcolletions;
+package pro.sky.SethAndColletions;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
